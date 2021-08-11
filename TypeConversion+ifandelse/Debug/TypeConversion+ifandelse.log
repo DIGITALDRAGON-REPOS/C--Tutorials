@@ -1,0 +1,4 @@
+﻿  TypeConversion+ifandelse.cpp
+C:\Users\Tutorials\source\repos\TypeConversion+ifandelse\TypeConversion+ifandelse.cpp(28,10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tutorials\source\repos\TypeConversion+ifandelse\TypeConversion+ifandelse.cpp(7,6): warning C4101: 'b': unreferenced local variable
+  TypeConversion+ifandelse.vcxproj -> C:\Users\Tutorials\source\repos\TypeConversion+ifandelse\Debug\TypeConversion+ifandelse.exe

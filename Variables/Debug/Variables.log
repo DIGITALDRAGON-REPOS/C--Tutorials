@@ -1,0 +1,5 @@
+﻿  Variables.cpp
+C:\Users\Tutorials\source\repos\Variables\Variables.cpp(17,13): warning C4305: '=': truncation from 'int' to 'char'
+C:\Users\Tutorials\source\repos\Variables\Variables.cpp(17,8): warning C4309: '=': truncation of constant value
+C:\Users\Tutorials\source\repos\Variables\Variables.cpp(15,8): warning C4101: 'chrs': unreferenced local variable
+  Variables.vcxproj -> C:\Users\Tutorials\source\repos\Variables\Debug\Variables.exe
